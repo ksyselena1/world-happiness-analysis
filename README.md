@@ -5,5 +5,7 @@ Data analysis of the happiness dataset and trying to understand the relationship
 
 
 phase3.ipynb holds the complete research/analysis performed through Jupyter Notebook 
+
 data.ipynb shows processing of data and other research done on the data (source of raw data from Kaggle)
+
 data folder holds raw data used
